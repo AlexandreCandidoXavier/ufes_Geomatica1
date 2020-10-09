@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>MC_fuso.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>3.8</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>3.8</width>
+		</LineStyle>
+	</Style>
+	<Placemark> 
+    		<name>MC 0</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -177,80,0 -177,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 1</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -171,80,0 -171,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 2</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -165,80,0 -165,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 3</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -159,80,0 -159,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 4</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -153,80,0 -153,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 5</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -147,80,0 -147,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 6</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -141,80,0 -141,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 7</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -135,80,0 -135,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 8</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -129,80,0 -129,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 9</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -123,80,0 -123,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 10</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -117,80,0 -117,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 11</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -111,80,0 -111,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 12</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -105,80,0 -105,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 13</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -99,80,0 -99,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 14</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -93,80,0 -93,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 15</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -87,80,0 -87,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 16</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -81,80,0 -81,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 17</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -75,80,0 -75,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 18</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -69,80,0 -69,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 19</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -63,80,0 -63,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 20</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -57,80,0 -57,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 21</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -51,80,0 -51,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 22</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -45,80,0 -45,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 23</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -39,80,0 -39,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 24</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -33,80,0 -33,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 25</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -27,80,0 -27,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 26</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -21,80,0 -21,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 27</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -15,80,0 -15,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 28</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -9,80,0 -9,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 29</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> -3,80,0 -3,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 30</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 3,80,0 3,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 31</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 9,80,0 9,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 32</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 15,80,0 15,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 33</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 21,80,0 21,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 34</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 27,80,0 27,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 35</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 33,80,0 33,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 36</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 39,80,0 39,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 37</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 45,80,0 45,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 38</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 51,80,0 51,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 39</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 57,80,0 57,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 40</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 63,80,0 63,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 41</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 69,80,0 69,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 42</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 75,80,0 75,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 43</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 81,80,0 81,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 44</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 87,80,0 87,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 45</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 93,80,0 93,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 46</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 99,80,0 99,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 47</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 105,80,0 105,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 48</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 111,80,0 111,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 49</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 117,80,0 117,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 50</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 123,80,0 123,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 51</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 129,80,0 129,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 52</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 135,80,0 135,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 53</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 141,80,0 141,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 54</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 147,80,0 147,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 55</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 153,80,0 153,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 56</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 159,80,0 159,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 57</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 165,80,0 165,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 58</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 171,80,0 171,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+	<Placemark> 
+    		<name>MC 59</name> 
+    		<styleUrl>#m_ylw-pushpin</styleUrl> 
+    		<LineString> 
+    			<tessellate>1</tessellate> 
+    			<coordinates> 177,80,0 177,-80,0  
+    			</coordinates> 
+    		</LineString> 
+    	</Placemark> 
+
+</Document>
+</kml>
