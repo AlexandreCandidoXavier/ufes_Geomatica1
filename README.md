@@ -7,3 +7,9 @@ Você poderá ver a aula na forma estática [aqui](https://nbviewer.jupyter.org/
 Sugestões são bem vindas.
 
 Obrigado
+
+
+<div align="center">
+  <a href="https://github.com/l3omc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=l3omc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
