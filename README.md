@@ -16,7 +16,8 @@ Obrigado
 
 
 
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
   <head>
       <meta charset="utf-8">
       <title>scatter</title>
@@ -83,4 +84,4 @@ Obrigado
           })();
         </script>
   </body>
-</div>
+</html>
