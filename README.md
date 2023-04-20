@@ -16,7 +16,7 @@ Obrigado
 
 
 
-
+<div align="center">
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -86,3 +86,4 @@ Obrigado
         </script>
   </body>
 </html>
+</div>
